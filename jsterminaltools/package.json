@@ -1,0 +1,24 @@
+{
+  "name": "bitbucket-snippet",
+  "version": "1.0.0",
+  "description": "a command line for creating bitbucket snippets",
+  "main": "index.js",
+    "bin": {
+  "snippet": "./index.js"}, 
+  "scripts": {
+    "test": "console.log('hello')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "na",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
